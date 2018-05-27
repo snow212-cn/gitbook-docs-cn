@@ -1,0 +1,40 @@
+{
+    "author": "me",
+    "description": "Modern documentation format and toolchain using Git and Markdown",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "About Me": ""
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 16,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 0,
+            "left": 6,
+            "right": 6,
+            "top": 0
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "structure":{
+      "readme":"README.md",
+      "summary":"SUMMARY.md"
+    },
+    "plugins": [],
+    "title": "GitBook docs",
+    "variables": {}
+}
